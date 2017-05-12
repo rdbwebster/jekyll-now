@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About
+title: What about Bob?
 permalink: /about/
 ---
 
-Some information about you!
+I am a tech guy who works for VMware in the VCAN division.
+
+And yes Bill Murray's movies are excellent.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Opinions expressed on this site are my own and do not reflect the option of VMware.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bwebster@vmware.com](mailto:bwebster@vmware.com)
